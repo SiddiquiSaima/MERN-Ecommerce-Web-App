@@ -25,8 +25,6 @@ const Home = () => {
           photo="https://m.media-amazon.com/images/I/71TPda7cwUL._SX679_.jpg"
         
         />  
-        
-        
       </main> 
 
     </div>
